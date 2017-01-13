@@ -51,5 +51,9 @@
   "user": {
     "dataSource": "db",
     "public": false
+  },
+  "ourPerson": {
+    "dataSource": "db",
+    "public": false
   }
 }

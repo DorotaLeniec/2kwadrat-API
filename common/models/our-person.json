@@ -1,0 +1,39 @@
+{
+  "name": "ourPerson",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "login": {
+      "type": "string"
+    },
+    "password": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "favouritesRecipesIds": {
+      "type": [
+        "number"
+      ]
+    },
+    "shoppingListIngredientsIds": {
+      "type": [
+        "number"
+      ]
+    },
+    "name": {
+      "type": "string"
+    },
+    "surname": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
