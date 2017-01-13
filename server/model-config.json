@@ -47,5 +47,9 @@
   "zupa": {
     "dataSource": "db",
     "public": true
+  },
+  "user": {
+    "dataSource": "db",
+    "public": false
   }
 }
