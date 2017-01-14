@@ -6,7 +6,6 @@
     "RoleMapping": 1,
     "Role": 1,
     "person": 4,
-    "ingredient": 1,
     "ourPerson": 4
   },
   "models": {
@@ -26,5 +25,6 @@
       "2": "{\"login\":\"maciek\",\"password\":\"maciek\",\"email\":\"kuba@wp.pl\",\"favouritesRecipesIds\":[3,6,5],\"shoppingListIngredientsIds\":[8,9,7],\"name\":\"maciek\",\"surname\":\"maciek\",\"id\":2}",
       "3": "{\"login\":\"dorota\",\"password\":\"dorota\",\"email\":\"dorota@wp.pl\",\"favouritesRecipesIds\":[1,6,8],\"shoppingListIngredientsIds\":[8,9,6,7,5],\"name\":\"dorota\",\"surname\":\"dorota\",\"id\":3}"
     }
+
   }
 }

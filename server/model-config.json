@@ -43,13 +43,5 @@
   "ourPerson": {
     "dataSource": "db",
     "public": true
-  },
-  "test": {
-    "dataSource": "db",
-    "public": true
-  },
-  "czlowiek": {
-    "dataSource": "db",
-    "public": true
   }
 }
