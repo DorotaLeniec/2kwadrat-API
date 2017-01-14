@@ -34,19 +34,7 @@
   },
   "person": {
     "dataSource": "db",
-    "public": true
-  },
-  "ingredient": {
-    "dataSource": "db",
-    "public": true
-  },
-  "shop": {
-    "dataSource": "db",
-    "public": true
-  },
-  "zupa": {
-    "dataSource": "db",
-    "public": true
+    "public": false
   },
   "user": {
     "dataSource": "db",
@@ -54,6 +42,6 @@
   },
   "ourPerson": {
     "dataSource": "db",
-    "public": false
+    "public": true
   }
 }

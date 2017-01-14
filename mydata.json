@@ -13,12 +13,12 @@
     "AccessToken": {},
     "ACL": {},
     "RoleMapping": {},
+    "our-person" : {},
     "Role": {},
     "person": {
       "1": "{\"firstName\":\"Zbychring\",\"secondName\":\"string\",\"age\":0,\"id\":1}",
       "2": "{\"firstName\":\"Barbara\",\"secondName\":\"Ząbek\",\"age\":22,\"id\":2}",
       "3": "{\"firstName\":\"Zawisza\",\"secondName\":\"Black\",\"age\":166,\"id\":3}"
-    },
-    "ingredient": {}
+    }
   }
 }
